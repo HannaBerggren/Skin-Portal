@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-(avw&=x4e3+sq59-$&x(xvzd3pl$e*@_11#zb-j1k1g%kzbvr(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['8000-hannaberggre-skinportal-91fcrxnu7l4.ws-eu104.gitpod.io']
 
 
 # Application definition
